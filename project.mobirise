@@ -239,7 +239,7 @@
             "fontColor": "#f7da64",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": true,
             "collapsed": true,
@@ -676,10 +676,10 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/imageedit-1-1400x941.jpg",
             "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
