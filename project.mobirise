@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "login.html",
+    "currentPage": "page4.html",
     "name": "Tip Your Bet",
     "theme": {
       "name": "mobirise3",
@@ -21,11 +21,12 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 44,
+    "uniqCompNum": 47,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -134,7 +135,7 @@
             "showButton": true
           },
           "title": "",
-          "text": "Οι στοιχηματικές προβλέψεις είναι πολύ δύσκολο να είναι πάντα επιτυχημένες, πάντα υπάρχει το ρίσκο. Υπάρχουν βέβαια πολλοί tipsters που έχουν μεγάλο ποσοστό επιτυχίας. αλλά ποτέ δεν μπορεί να εγγυηθεί κάποιος. Σκοπός μας είναι να έχουμε επιτυχημένες προβλέψεις και προκειμένου να φτάσουμε εκεί θα πρέπει όλοι να ψηφίζετε",
+          "text": "Οι στοιχηματικές προβλέψεις είναι πολύ δύσκολο να είναι όλες επιτυχημένες, πάντα υπάρχει το ρίσκο. Υπάρχουν βέβαια πολλοί tipsters που έχουν μεγάλο ποσοστό επιτυχίας. αλλά ποτέ δεν μπορεί να εγγυηθεί κάποιος. Σκοπός μας είναι να συγκεντρώσουμε όσο το δυνατόν περισσότερες επιτυχημένες προβλέψεις και προκειμένου να φτάσουμε εκεί θα πρέπει όλοι να ψηφίζετε συνειδητά",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"register.html\" data-toolbar=\"-mbrBtnMove\">ΞΕΚΙΝΗΣΤΕ ΜΕ ΔΩΡΕΑΝ ΕΓΡΑΦΗ!</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"learnmore.html\" data-toolbar=\"-mbrBtnMove\">ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ</a>"
         },
         {
@@ -243,7 +244,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -261,7 +262,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://tipyourbet.gr\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TIP YOUR BET</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TIP YOUR BET</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">ΕΙΣΟΔΟΣ</a></li>"
         }
       ]
@@ -295,6 +296,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-16",
           "_params": {
             "labelsColor": "#232323",
@@ -340,12 +346,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         }
       ]
     },
@@ -537,6 +538,128 @@
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://tipyourbet.gr\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TIP YOUR BET</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">ΕΙΣΟΔΟΣ</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-18",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-19",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     },
@@ -678,7 +801,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -696,7 +819,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://tipyourbet.gr\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TIP YOUR BET</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TIP YOUR BET</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">ΕΙΣΟΔΟΣ</a></li>"
         },
         {
@@ -742,7 +865,7 @@
           "title1": "Ξεκινήστε ως μέλος",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Κάνοντας δωρεάν εγγραφή ως μέλος, σας δίνουμε το εικονικό ποσό των 1000€ για να ποντάρετε στους αγώνες και τα σημεία που εσείς προβλέπετε ως αξιόλογα. Έχετε πλήρη ελεγχο του προφίλ και της απόδοσης σας ανα μήνα, ανα σπορ και φυσικά του εικονικού ποσού που είναι διαθέσιμο.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ΠΕΡΙΣΣΟΤΕΡΑ</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -757,7 +880,7 @@
           "title2": "Ψηφίστε τα στοιχήματα σας και δείτε αποτέλεσμα",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Απο την στιγμή που ψηφίζετε και δίνετε τις προβλέψεις που θεωρείτε εγκυρες, όλοι μαζί βλέπετε τα πιο ισχυρά σημεία και σχόλια από άλλους. Με αυτόν τον τρόπο",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ΠΕΡΙΣΣΟΤΕΡΑ</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -771,8 +894,8 @@
           },
           "title3": "Κερδίστε πραγματικά χρήματα ως μέλος",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Καθέ μήνα ο καλύτερος tipster αμοίβεται με πραγματικά χρήματα με το ποσό των 20€ για να το στοιχηματίσει όπως θέλει.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption3": "Υπάρχουν πολλοι διαγωνισμοί και προκλήσεις αλλά λάβετε υπόψη οτι καθέ μήνα ο καλύτερος tipster αμοίβεται με πραγματικά χρήματα με το ποσό των 20€ για να το στοιχηματίσει όπως θέλει.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ΠΕΡΙΣΣΟΤΕΡΑ</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -786,8 +909,8 @@
           },
           "title4": "Χρησιμοποιήστε το όπου και αν βρίσκεστε",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Μπορείτε να το χρησιμοποιήσετε στο σπιτι, στο δραφείο, στην καφετέρια ή όπου και αν βρίσκεστε με την πολυ καλή εφαρμογή που έχουμε δημιουργήσει.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption4": "Μπορείτε να το χρησιμοποιήσετε στο σπιτι, στο γραφείο, στην καφετέρια ή όπου και αν βρίσκεστε με την πολυ καλή εφαρμογή που έχουμε δημιουργήσει.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ΠΕΡΙΣΣΟΤΕΡΑ</a>",
           "media5": {
             "iconFont": {
               "active": true,
