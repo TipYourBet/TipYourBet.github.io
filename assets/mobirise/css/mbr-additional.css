@@ -508,6 +508,9 @@ h6,
 #menu-j .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#form1-16 .form-control-label {
+  color: #232323;
+}
 
 
 #menu-q .hide-buttons .nav-btn {
