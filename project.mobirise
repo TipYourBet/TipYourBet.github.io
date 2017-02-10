@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "learnmore.html",
+    "currentPage": "login.html",
     "name": "Tip Your Bet",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 43,
+    "uniqCompNum": 44,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -74,7 +74,7 @@
           },
           "title": "ΟΙ ΠΙΟ ΕΓΚΥΡΕΣ ΠΡΟΒΛΕΨΕΙΣ",
           "text": "<p>Γιατί ο καλύτερος tipster είμαστε όλοι μαζί</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
         {
           "_name": "footer1",
@@ -243,7 +243,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -375,98 +375,47 @@
         },
         {
           "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
+            ".mbr-section-title": {
+              "color": "#fff"
             },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "46px"
-            },
-            ".navbar-toggler": {
-              "color": "#f7da64"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#f7da64"
-            },
-            ".link, .dropdown-item": {
-              "color": "#f7da64",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.15rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#f7da64",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "menu",
-          "_anchor": "menu-q",
+          "_name": "form2",
+          "_anchor": "form2-17",
           "_params": {
-            "bgColor": "#cccccc",
-            "fontSize": "1.15",
-            "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
-            },
-            "fontColor": "#f7da64",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
           },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-3-127x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "#top",
-              "title": "",
-              "linkInNewWindow": false
+          "title": "Ο λογαριασμός σας",
+          "subtitle": "",
+          "form": {
+            "action": "nkorbus@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://tipyourbet.gr\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TIP YOUR BET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">ΕΙΣΟΔΟΣ</a></li>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ΕΙΣΟΔΟΣ</a>"
         }
       ]
     },
@@ -568,7 +517,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -729,7 +678,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -790,51 +739,54 @@
               "size": 0
             }
           },
-          "title1": "Ξεκινώντας ώς μέλος",
+          "title1": "Ξεκινήστε ως μέλος",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Κάνοντας δωρεάν εγγραφή ως μέλος, σας δίνουμε το εικονικό ποσό των 1000€ για να ποντάρετε στους αγώνες και τα σημεία που εσείς προβλέπετε ως αξιόλογα.",
+          "caption1": "Κάνοντας δωρεάν εγγραφή ως μέλος, σας δίνουμε το εικονικό ποσό των 1000€ για να ποντάρετε στους αγώνες και τα σημεία που εσείς προβλέπετε ως αξιόλογα. Έχετε πλήρη ελεγχο του προφίλ και της απόδοσης σας ανα μήνα, ανα σπορ και φυσικά του εικονικού ποσού που είναι διαθέσιμο.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "mobile",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
-          "title2": "Responsive",
+          "title2": "Ψηφίστε τα στοιχήματα σας και δείτε αποτέλεσμα",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Απο την στιγμή που ψηφίζετε και δίνετε τις προβλέψεις που θεωρείτε εγκυρες, όλοι μαζί βλέπετε τα πιο ισχυρά σημεία και σχόλια από άλλους. Με αυτόν τον τρόπο",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "pencil",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
-          "title3": "Web Fonts",
+          "title3": "Κερδίστε πραγματικά χρήματα ως μέλος",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Καθέ μήνα ο καλύτερος tipster αμοίβεται με πραγματικά χρήματα με το ποσό των 20€ για να το στοιχηματίσει όπως θέλει.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "Χρησιμοποιήστε το όπου και αν βρίσκεστε",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Μπορείτε να το χρησιμοποιήσετε στο σπιτι, στο δραφείο, στην καφετέρια ή όπου και αν βρίσκεστε με την πολυ καλή εφαρμογή που έχουμε δημιουργήσει.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
