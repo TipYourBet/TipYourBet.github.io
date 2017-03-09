@@ -75,8 +75,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "ΟΙ ΠΙΟ ΕΓΚΥΡΕΣ ΠΡΟΒΛΕΨΕΙΣ",
-          "text": "<p>Γιατί ο καλύτερος tipster είμαστε όλοι μαζί</p>",
+          "title": "THE MOST ACCURATE PREDICTIONS",
+          "text": "<p>Because the best tipster are all of us together</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -138,7 +138,7 @@
           },
           "title": "",
           "text": "Οι στοιχηματικές προβλέψεις είναι πολύ δύσκολο να είναι όλες επιτυχημένες, πάντα υπάρχει το ρίσκο. Υπάρχουν βέβαια πολλοί tipsters που έχουν μεγάλο ποσοστό επιτυχίας, αλλά τίποτε δεν είναι σίγουρο. Σκοπός μας είναι να συγκεντρώσουμε όσο το δυνατόν περισσότερες επιτυχημένες προβλέψεις και για να γίνει αυτό θα πρέπει όλοι να ψηφίζετε συνειδητά. Μπορείτε παράλληλα να ακουλουθήσετε επιτυχημένους tipsters, να συναγωνιστείτε τα υπόλοιπα μέλη με τις προβλέψεις σας, κερδίζοντας έπαθλα και πολλά άλλα.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"register.html\" data-toolbar=\"-mbrBtnMove\">ΞΕΚΙΝΗΣΤΕ ΜΕ ΔΩΡΕΑΝ ΕΓΡΑΦΗ!</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"learnmore.html\" data-toolbar=\"-mbrBtnMove\">ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"register.html\" data-toolbar=\"-mbrBtnMove\">START WITH FREE REGISTER</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"learnmore.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -169,7 +169,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ",
+          "text": "FOLLOW US",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
@@ -265,7 +265,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TIP YOUR BET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">ΕΙΣΟΔΟΣ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">ΕΓΓΡΑΦΗ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">REGISTER</a></li>"
         }
       ]
     },
@@ -426,7 +426,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TIP YOUR BET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">ΕΙΣΟΔΟΣ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">ΕΓΓΡΑΦΗ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">REGISTER</a></li>"
         },
         {
           "_inherit": "features3",
