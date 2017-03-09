@@ -137,7 +137,7 @@
             "showButton": true
           },
           "title": "",
-          "text": "Οι στοιχηματικές προβλέψεις είναι πολύ δύσκολο να είναι όλες επιτυχημένες, πάντα υπάρχει το ρίσκο. Υπάρχουν βέβαια πολλοί tipsters που έχουν μεγάλο ποσοστό επιτυχίας, αλλά τίποτε δεν είναι σίγουρο. Σκοπός μας είναι να συγκεντρώσουμε όσο το δυνατόν περισσότερες επιτυχημένες προβλέψεις και για να γίνει αυτό θα πρέπει όλοι να ψηφίζετε συνειδητά. Μπορείτε παράλληλα να ακουλουθήσετε επιτυχημένους tipsters, να συναγωνιστείτε τα υπόλοιπα μέλη με τις προβλέψεις σας, κερδίζοντας έπαθλα και πολλά άλλα.",
+          "text": "Betting predictions are difficult to be accurate and always successful. Since you tip the best bets, the result will be to have reliable predictions. Furthermore you comete other tipsters and you can win real money if you are the best. You can watch other successful tips and all together have a very good result.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"register.html\" data-toolbar=\"-mbrBtnMove\">START WITH FREE REGISTER</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"learnmore.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
@@ -468,10 +468,10 @@
               "size": 0
             }
           },
-          "title1": "Ξεκινήστε ως μέλος",
+          "title1": "Begin as a tipster member",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Κάνοντας δωρεάν εγγραφή ως μέλος, σας δίνουμε το εικονικό ποσό των 1000€ για να ποντάρετε στους αγώνες και τα σημεία που εσείς προβλέπετε ως αξιόλογα και όσο το δυνατόν πιο σίγουρα. Έχετε πλήρη ελεγχο του προφίλ και της απόδοσης σας ανα μήνα, ανα σπορ και φυσικά του εικονικού ποσού που είναι διαθέσιμο.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ΠΕΡΙΣΣΟΤΕΡΑ</a>",
+          "caption1": "When you register, we give you 300 points, to tip your favorite bets. You have full control of your profile and your performance, competing other tipsters.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -483,10 +483,10 @@
               "size": 0
             }
           },
-          "title2": "Κερδίστε πραγματικά χρήματα",
+          "title2": "Win real money",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Συναγωνιστείτε τα υπόλοιπα μέλη στις προβλέψεις και δείξτε οτι είστε καλύτεροι. Υπάρχουν διαγωνισμοί και προκλήσεις αλλά λάβετε υπόψη οτι ο καλύτερος tipster κάθε μήνα, αμοίβεται με πραγματικά χρήματα με το ποσό των 20€ για να το στοιχηματίσει όπως θέλει.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ΠΕΡΙΣΣΟΤΕΡΑ</a>",
+          "caption2": "Compete other member tipsters and if you are the best of every month, we give tou real money,not points to bet it as you want.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -498,10 +498,10 @@
               "size": 0
             }
           },
-          "title3": "Ψηφίστε τα στοιχήματα σας και δείτε αποτέλεσμα",
+          "title3": "Tip your bets and see the result",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Απο την στιγμή που δίνετε τις προβλέψεις που θεωρείτε εγκυρες, όλοι μαζί βλέπουμε τα πιο ισχυρά σημεία με σχόλια από άλλους. Με αυτόν τον τρόπο, μαθαίνετε καλύτερα τα νέα και τις γνώμες και μπορείτε να καταλήξετε στις επιλογές σας, με μεγαλύτερη πιθανότητα επιτυχίας.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ΠΕΡΙΣΣΟΤΕΡΑ</a>",
+          "caption3": "Since you tip responsively, the bet predictions become more accurate and the result is that you are always win.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -513,10 +513,10 @@
               "size": 0
             }
           },
-          "title4": "Χρησιμοποιήστε το όπου και αν βρίσκεστε",
+          "title4": "Use it whenever you are",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Μπορείτε να το χρησιμοποιήσετε στο σπιτι, στο γραφείο, στην καφετέρια ή όπου και αν βρίσκεστε με την πολυ καλή εφαρμογή που έχουμε δημιουργήσει.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ΠΕΡΙΣΣΟΤΕΡΑ</a>",
+          "caption4": "You can use it home, in the office, in the cafe, since it is convenient to login in every device.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
