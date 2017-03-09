@@ -508,9 +508,6 @@ h6,
 #menu-j .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#form1-16 .form-control-label {
-  color: #232323;
-}
 
 
 #msg-box8-z .mbr-section-title,
@@ -583,12 +580,4 @@ h6,
 #menu-13 .link[aria-expanded="true"],
 #menu-13 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#header3-1f .mbr-section-title,
-#header3-1f .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1f H3 {
-  text-align: right;
-  color: #fac51c;
 }
