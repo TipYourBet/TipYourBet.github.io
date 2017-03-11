@@ -11,6 +11,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -436,14 +437,6 @@ h6,
 #msg-box3-g .lead {
   font-family: 'Oxygen', sans-serif;
 }
-#social-buttons4-h .mbr-section-title,
-#social-buttons4-h .btn-social {
-  color: #fff;
-}
-#social-buttons4-h .mbr-section-title {
-  font-size: 18px;
-  font-family: 'Oxygen', sans-serif;
-}
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -507,6 +500,18 @@ h6,
 #menu-j .link[aria-expanded="true"],
 #menu-j .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#msg-box1-1h .btn {
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
+#social-buttons4-h .mbr-section-title,
+#social-buttons4-h .btn-social {
+  color: #fff;
+}
+#social-buttons4-h .mbr-section-title {
+  font-size: 18px;
+  font-family: 'Oxygen', sans-serif;
 }
 
 
