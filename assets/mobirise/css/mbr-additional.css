@@ -502,7 +502,7 @@ h6,
 }
 #menu-j .link[aria-expanded="true"],
 #menu-j .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #cccccc!important;
 }
 #msg-box1-1h .btn {
   font-size: 16px;

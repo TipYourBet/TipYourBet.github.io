@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "main.html",
+    "currentPage": "index.html",
     "name": "Tip Your Bet",
     "theme": {
       "name": "mobirise3",
@@ -314,7 +314,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_tags": [
@@ -356,7 +356,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TIP YOUR BET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"main.html\">LOGIN</a></li>"
         },
         {
           "_tags": [
@@ -586,7 +586,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TIP YOUR BET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"main.html\">LOGIN</a></li>"
         },
         {
           "_inherit": "features3",
@@ -1026,7 +1026,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TIP YOUR BET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"login.html\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"learnmore.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"main.html\">LOGIN</a></li>"
         }
       ]
     }
