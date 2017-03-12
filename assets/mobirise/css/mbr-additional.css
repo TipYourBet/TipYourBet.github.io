@@ -518,6 +518,7 @@ h6,
 }
 
 
+
 #msg-box8-z .mbr-section-title,
 #msg-box8-z p {
   color: #fff;
@@ -588,6 +589,14 @@ h6,
 #menu-13 .link[aria-expanded="true"],
 #menu-13 .dropdown-item[aria-expanded="true"] {
   color: #cccccc!important;
+}
+#social-buttons4-1w .mbr-section-title,
+#social-buttons4-1w .btn-social {
+  color: #fff;
+}
+#social-buttons4-1w .mbr-section-title {
+  font-size: 18px;
+  font-family: 'Oxygen', sans-serif;
 }
 
 
